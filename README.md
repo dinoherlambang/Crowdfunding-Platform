@@ -1,5 +1,7 @@
 # Crowdfunding-Platform
-Platform for the Stakeholder and the Startup have collaboration Management. The platform enables global investors to easily connect with micro startups, while also providing collaboration management for stakeholders and startups.
+Platform for the Stakeholder and the Startup have collaboration Management. 
+
+The platform enables global investors to easily connect with micro startups, while also providing collaboration management for stakeholders and startups.
 
 
 | Domain Area                     | Description                                                                                                                        |
